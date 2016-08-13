@@ -1,0 +1,4 @@
+[submodule "iOS-SSL-KILLER"]
+	path = iOS-SSL-KILLER
+	url = https://github.com/qiaoxueshi/iOS-SSL-KILLER.git
+	branch = master
