@@ -6,3 +6,7 @@
 	path = CTObjectiveCRuntimeAdditions
 	url = https://github.com/ebf/CTObjectiveCRuntimeAdditions.git
 	branch = master
+[submodule "Aspects"]
+	path = Aspects
+	url = https://github.com/steipete/Aspects.git
+	branch = master
