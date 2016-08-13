@@ -2,3 +2,7 @@
 	path = iOS-SSL-KILLER
 	url = https://github.com/qiaoxueshi/iOS-SSL-KILLER.git
 	branch = master
+[submodule "CTObjectiveCRuntimeAdditions"]
+	path = CTObjectiveCRuntimeAdditions
+	url = https://github.com/ebf/CTObjectiveCRuntimeAdditions.git
+	branch = master
